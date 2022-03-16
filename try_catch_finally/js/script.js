@@ -77,3 +77,6 @@ try {
 } finally {
   alert("finally");
 }
+
+//CODE FROM :
+// https://javascript.info/try-catch#finally-or-just-the-code
